@@ -64,5 +64,6 @@ gem 'pry-rails'
 gem 'rails_autolink'
 gem 'ransack'
 gem 'kaminari'
+gem 'sidekiq', '~> 5.0'
 
 
